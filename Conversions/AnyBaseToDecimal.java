@@ -55,7 +55,7 @@ public class AnyBaseToDecimal {
             return (int)c - '0';
         }
         else {
-            return (int)cc - 'A' + 10;
+            return (int)ccc - 'A' + 10;
         }
     }
 }
